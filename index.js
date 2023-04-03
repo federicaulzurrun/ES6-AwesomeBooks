@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import { DateTime } from './modules/luxon.js';
 import Books from './modules/books.js';
 
