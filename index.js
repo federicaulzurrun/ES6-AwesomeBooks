@@ -1,4 +1,4 @@
-import { DateTime } from './modules/luxon.js';
+import displayDate from './modules/displayDate.js';
 import Books from './modules/books.js';
 
 // navbar functionality
@@ -35,11 +35,5 @@ if (localStorage.getItem('createdBooks')) {
   awesomeBooks.books = JSON.parse(localStorage.getItem('createdBooks'));
   awesomeBooks.displayBooks();
 }
-
-// Add date and time
-const displayDate = () => {
-  const date = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
-  document.getElementById('datetime').innerHTML = date;
-};
 
 document.addEventListener('DOMContentLoaded', displayDate());
