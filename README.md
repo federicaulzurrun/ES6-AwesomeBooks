@@ -26,7 +26,7 @@
 # 📖 [Awesome Books] <a name="about-project"></a>
 
 
-**Awesome Books**  We created this project using a wireframe with plain JavaScript.
+**Awesome Books**  We created this project using a wireframe with plain JavaScript ES6.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,9 +43,10 @@ First i use HTML 5 thas it's markup languange used for structuring and presentin
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="https://flourishing-concha-90ed27.netlify.app/"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href=""> Visit the site!</a>
+- <a href="https://federicaulzurrun.github.io/ES6-AwesomeBooks/
+"> Visit the site!</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +69,9 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  git clone https://github.com/federicaulzurrun/AwesomeBooks.git
+```sh
+  git clone https://github.com/federicaulzurrun/ES6-AwesomeBooks.git
+```
 
 ### Install
 
@@ -145,7 +148,7 @@ If you like this project let me know via twitter ! and i'll follow you!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank International Conference on Interdisciplinary Social Sciences for allowing me to use their information to create this page and to trust me with this project for their future conference.
+Thanks to Microverse for allowing me to make this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
